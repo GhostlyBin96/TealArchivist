@@ -1,0 +1,70 @@
+<ModInfo>
+  <ClothInfo>
+    <Name>Angela The Teal Archivist</Name>
+    <Default>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-9.200002" pivot_y="-220.6" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Default>
+    <Guard>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="0" pivot_y="-220.6001" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Guard>
+    <Evade>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="0" pivot_y="-222.9" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Evade>
+    <Damaged>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="0" pivot_y="-489.6999" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Damaged>
+    <Slash>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="303.5999" pivot_y="-303.4001" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Slash>
+    <Penetrate>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="312.7998" pivot_y="-491.9997" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Penetrate>
+    <Hit>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-18.40001" pivot_y="-305.7003" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Hit>
+    <Move>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-59.8" pivot_y="-257.4001" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Move>
+    <Fire>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="64.39999" pivot_y="-275.8" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Fire>
+    <Aim>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="64.40001" pivot_y="-275.8" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Aim>
+    <S1>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="82.8" pivot_y="-130.9" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </S1>
+    <S2>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-59.79999" pivot_y="-395.4" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </S2>
+    <S3>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="186.3" pivot_y="-312.6001" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </S3>
+  </ClothInfo>
+</ModInfo>
