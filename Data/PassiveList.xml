@@ -78,4 +78,17 @@
     <Name>Former Director of Her Role's Namesake</Name>
     <Desc>At the end of each scene, all allies gain 1 Negative Emotion Coin. User’s Pages cost 1 less Light to play.</Desc>
   </Passive>
+  <Passive ID="20">
+    <Negative>false</Negative>
+    <IsHide>false</IsHide>
+    <Rarity>Unique</Rarity>
+    <Lock>false</Lock>
+    <CanGivePassive>false</CanGivePassive>
+    <CanReceivePassive>false</CanReceivePassive>
+    <InnerType>-1</InnerType>
+    <Cost>0</Cost>
+    <Script>LostLibrary</Script>
+    <Name>LostLibrary</Name>
+    <Desc>LostLibrary</Desc>
+  </Passive>
 </PassiveXmlRoot>

@@ -226,4 +226,56 @@
     <MaxCooltimeForEgo>9</MaxCooltimeForEgo>
     <MaxNum>150</MaxNum>
   </Card>
+  <Card ID="20">
+    <Name>LostLibrary</Name>
+    <Artwork>TA_AllColors.png</Artwork>
+    <Rarity>Unique</Rarity>
+    <Option>Personal</Option>
+    <Spec Range="Instance" Cost="0" />
+    <Script>LostLibrary</Script>
+    <ScriptDesc></ScriptDesc>
+    <BehaviourList>
+    </BehaviourList>
+    <Chapter>7</Chapter>
+    <Priority>0</Priority>
+  </Card>
+   <Card ID="21">
+    <Name>Desynchronize</Name>
+    <Artwork>TA_AllColors.png</Artwork>
+    <Rarity>Unique</Rarity>
+    <Option>Personal</Option>
+    <Spec Range="Instance" Cost="0" />
+    <Script>LostLibrary_Desynchronize</Script>
+    <ScriptDesc></ScriptDesc>
+    <BehaviourList>
+    </BehaviourList>
+    <Chapter>7</Chapter>
+    <Priority>0</Priority>
+  </Card>
+  <Card ID="22">
+    <Name>Roland</Name>
+    <Artwork>TA_AllColors.png</Artwork>
+    <Rarity>Rare</Rarity>
+    <Option>Personal</Option>
+    <Spec Range="Instance" Cost="0" />
+    <Script>LostLibrary_Roland</Script>
+    <ScriptDesc></ScriptDesc>
+    <BehaviourList>
+    </BehaviourList>
+    <Chapter>7</Chapter>
+    <Priority>0</Priority>
+  </Card>
+  <Card ID="23">
+    <Name>Geburah</Name>
+    <Artwork>TA_AllColors.png</Artwork>
+    <Rarity>Rare</Rarity>
+    <Option>Personal</Option>
+    <Spec Range="Instance" Cost="0" />
+    <Script>LostLibrary_Geburah</Script>
+    <ScriptDesc></ScriptDesc>
+    <BehaviourList>
+    </BehaviourList>
+    <Chapter>7</Chapter>
+    <Priority>0</Priority>
+  </Card>
 </DiceCardXmlRoot>
