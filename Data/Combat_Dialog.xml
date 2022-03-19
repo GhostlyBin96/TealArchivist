@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1.1</Version>
+  <Character ID="1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">...Were the circumstances not so dire, I'd probably appreciate the irony of this situation better.</BattleDialog>
+      <BattleDialog ID="1">...Perhaps its time you too experienced a loss for the Library.</BattleDialog>
+      <BattleDialog ID="2">I have my own goals as you do yours... don't hold back.</BattleDialog>
+      <BattleDialog ID="3">From facing the Ensemble to facing my own Patrons and their assistants. I hate this.</BattleDialog>
+      <BattleDialog ID="4">Seeing you all again as my enemies hurts...</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">I'm sorry... but this is a sorrow I have to overcome to save my own Library...</BattleDialog>
+      <BattleDialog ID="1">Learn from this loss. Then perhaps my fate won't become your own...</BattleDialog>
+      <BattleDialog ID="2">...That's that and this is this. I have to keep going.</BattleDialog>
+      <BattleDialog ID="3">Victory... but at what cost?</BattleDialog>
+      <BattleDialog ID="4">It's you or them... it's you or them...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">I suppose this is what I deserve. O Sorrow... I...</BattleDialog>
+      <BattleDialog ID="1">Will my death at least free them...?</BattleDialog>
+      <BattleDialog ID="2">No... No! I can't... I have to save them. I have to-</BattleDialog>
+      <BattleDialog ID="3">If I have to die... use the Page of my Book. Change fate.</BattleDialog>
+      <BattleDialog ID="4">Ah... this is what I put them through... I suppose it could be... worse...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">More sins and blood on my hands...</BattleDialog>
+      <BattleDialog ID="1">It's just business. You know as well as I how this works...</BattleDialog>
+      <BattleDialog ID="2">I have to defend myself, so why does my heart ache so much?</BattleDialog>
+      <BattleDialog ID="3">At least I could make it quick.</BattleDialog>
+      <BattleDialog ID="4">It's just the way of things... right? It's me or them... and they'll be brought back, unlike me...</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

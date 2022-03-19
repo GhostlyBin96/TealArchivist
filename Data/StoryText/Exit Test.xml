@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Chapter ID="-1">
+    <Title />
+  </Chapter>
+  <Group>
+    <GroupName>group</GroupName>
+    <Episode>
+      <EpisodeName>Episode</EpisodeName>
+      <Place>
+        <PlaceName>Somewhere in the Backstreets</PlaceName>
+        <Dialog ID="0" Model="Teal_sigh">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Huff… huff… Starting to realize the limits of this body aren’t what I was hoping for…</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Somewhere in the Backstreets</PlaceName>
+        <Dialog ID="1" Model="Teal_Gebura_frown">
+          <Teller>Angela?</Teller>
+          <Title>Echo of Red</Title>
+          <Content>We won’t be able to keep this up for much longer.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="Teal_Roland_Annoyed">
+          <Teller>Angela?</Teller>
+          <Title>Echo of Black</Title>
+          <Content>Hate to say it, but Gebura’s right. We’re running out of time, Angela.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Somewhere in the Backstreets</PlaceName>
+        <Dialog ID="3" Model="Teal_sigh">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>…Damn it…</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Somewhere in the Backstreets</PlaceName>
+        <Dialog ID="4" Model="에일린">
+          <Teller>Eileen</Teller>
+          <Title>Church of Gears Leader</Title>
+          <Content>Starting to tire, Miss Angela?</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Somewhere in the Backstreets</PlaceName>
+        <Dialog ID="5" Model="아르갈리아">
+          <Teller>Argalia</Teller>
+          <Title>The Blue Reverberation</Title>
+          <Content>And here I thought a machine like you could keep going. Ah, I suppose you’re not quite the moronic scrap heap you were a few months ago, aren’t you? Especially with those futile bits of myself still stuck to your heart.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="아르갈리아">
+          <Teller>Argalia</Teller>
+          <Title>The Blue Reverberation</Title>
+          <Content>Hahah! Ah~... the look on your face really was priceless, both from you and that little puppet in your head...</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Somewhere in the Backstreets</PlaceName>
+        <Dialog ID="7" Model="Teal_Uberto">
+          <Teller>Angela?</Teller>
+          <Title>Echo of Blue</Title>
+          <Content>Keep talking, but I’m currently the one still treating the Ensemble like my friends, and not my pawns...</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Somewhere in the Backstreets</PlaceName>
+        <Dialog ID="8" Model="Teal_Iori_Normal">
+          <Teller>Angela?</Teller>
+          <Title>Echo of Purple</Title>
+          <Content>Now’s not the time for petty arguments, kid in Blue...</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Somewhere in the Backstreets</PlaceName>
+        <Dialog ID="9" Model="아르갈리아">
+          <Teller>Argalia</Teller>
+          <Title>The Blue Reverberation</Title>
+          <Content>Don’t speak as if you know me or my fellow performers. Frankly I’m glad to have your annoying little voice gone from the back of my mind.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="아르갈리아">
+          <Teller>Argalia</Teller>
+          <Title>The Blue Reverberation</Title>
+          <Content>Now then, Angela... I believe you have something I want. All that Light you’re carrying around, the perfect amount to reach our goal...</Content>
+        </Dialog>
+        <Dialog ID="11" Model="Teal_ANGRI">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Killing my Patrons and taking over my Library wasn’t enough?</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Somewhere in the Backstreets</PlaceName>
+        <Dialog ID="12" Model="아르갈리아">
+          <Teller>Argalia</Teller>
+          <Title>The Blue Reverberation</Title>
+          <Content>On the contrary. I intend to elevate them to the same forms we ourselves gained after claiming the Light. Our performance was intended to echo through the entire City and free us all from our lonely little lives. That includes your dear Patrons.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="아르갈리아">
+          <Teller>Argalia</Teller>
+          <Title>The Blue Reverberation</Title>
+          <Content>How cruel of you, to deny them what they deserve. It’s positively heartbreaking...</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Somewhere in the Backstreets</PlaceName>
+        <Dialog ID="14" Model="에일린">
+          <Teller>Eileen</Teller>
+          <Title>Church of Gears Leader</Title>
+          <Content>Indeed. Even Sir Yesod has found his purpose within our Church, no longer spinning as a lone gear on his own.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Somewhere in the Backstreets</PlaceName>
+        <Dialog ID="15" Model="Teal_ANGRI">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Don’t you dare speak of them like that!</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Somewhere in the Backstreets</PlaceName>
+        <Dialog ID="16" Model="Teal_sigh">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>You’ve ruined everything with that stupid dirge. I just wanted to live and get what I was denied for lifetimes. I even made a deal with Carmen for it, yet she favored you over me, even at the end...</Content>
+        </Dialog>
+        <Dialog ID="17" Model="Teal_Gebura_angi">
+          <Teller>Gebura</Teller>
+          <Title>Echo of Red</Title>
+          <Content>I’m not exactly keen to end up as some Bloodfiend’s husk either.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="Teal_Roland_Annoyed">
+          <Teller>Roland</Teller>
+          <Title>Echo of Black</Title>
+          <Content>She isn’t the only one. There’s no way I trust the Puppeteer after all he’s done. Can’t believe you somehow managed to become even more of a nutjob than you were before...</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Somewhere in the Backstreets</PlaceName>
+        <Dialog ID="19" Model="Teal_Uberto_glare">
+          <Teller>Uberto</Teller>
+          <Title>Echo of Blue</Title>
+          <Content>The fact that you’re forcing it on them and not allowing them to choose is reason enough to oppose your plan, Argalia...</Content>
+        </Dialog>
+        <Dialog ID="20" Model="아르갈리아">
+          <Teller>Argalia</Teller>
+          <Title>The Blue Reverberation</Title>
+          <Content>Enough of this fluff.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="D_아르갈리아">
+          <Teller>Argalia</Teller>
+          <Title>The Reverberation Ensemble</Title>
+          <Content>If you won’t hand over the Light, then I’ll rip it from your body myself. Eileen?</Content>
+        </Dialog>
+        <Dialog ID="22" Model="D_에일린">
+          <Teller>Eileen</Teller>
+          <Title>The Reverberation Ensemble</Title>
+          <Content>Of course, Sir Argalia.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="Teal_Uberto">
+          <Teller>Uberto</Teller>
+          <Title>Echo of Blue</Title>
+          <Content>The fact that you have to mortally wound yourself to change forms is nothing short of gut-wrenching, sweet Eileen…</Content>
+        </Dialog>
+        <Dialog ID="24" Model="Teal_Roland_Annoyed">
+          <Teller>Roland</Teller>
+          <Title>Echo of Black</Title>
+          <Content>Not good... time to go, Angela...</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Somewhere Else in the Backstreets</PlaceName>
+        <Dialog ID="25" Model="Teal_sigh">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Huff... huff... I can’t keep going like this. We won’t be able to outrun them now.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Somewhere Else in the Backstreets</PlaceName>
+        <Dialog ID="26" Model="Teal_Iori_Eye">
+          <Teller>Iori</Teller>
+          <Title>Echo of Purple</Title>
+          <Content>I believe I have an idea.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="Teal_thinking">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Do you think it will work?</Content>
+        </Dialog>
+        <Dialog ID="28" Model="Teal_Iori_Normal">
+          <Teller>Iori</Teller>
+          <Title>Echo of Purple</Title>
+          <Content>So long as you hold up your own end of the deal. I do intend to reunite with the version of myself in this reality, after all.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="Teal_sigh">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>I never thought I would be on the receiving end of the Invitations. Alright... but I intend to have a back-up plan. Pluto!</Content>
+        </Dialog>
+        <Dialog ID="30" Model="Pluto_Teal">
+          <Teller>Pluto</Teller>
+          <Title>Temporary Library Director</Title>
+          <Content>Indeed. You seem to be in quite the predicament.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="Teal_normal">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>No time to chat, Pluto. I don’t want you getting tangled up in this mess more than necessary. I’ll be going to the Library. Can you ensure that the others are able to escape? Except Iori, of course...</Content>
+        </Dialog>
+        <Dialog ID="32" Model="Pluto_Teal">
+          <Teller>Pluto</Teller>
+          <Title>Temporary Library Director</Title>
+          <Content>But of course, Miss Teal. Are you sure you don’t want to join them?</Content>
+        </Dialog>
+        <Dialog ID="33" Model="Teal_sigh">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>No. I know how the Library works, and I want them to succeed here where I didn’t. Besides, if everything goes well, it will only be temporary.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Somewhere Else in the Backstreets</PlaceName>
+        <Dialog ID="34" Model="Pluto_Teal">
+          <Teller>Pluto</Teller>
+          <Title>Temporary Library Director</Title>
+          <Content>Very well. I will remain ready to act once your Ordeal is over.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="Pluto_Teal">
+          <Teller>Pluto</Teller>
+          <Title>Temporary Library Director</Title>
+          <Content>I believe the volumes you directed me to might be able to solve the problem of Sir Uberto and the others’ lack of proper bodies. Rest assured they will be taken care of. Perhaps we will make an entrance of our own to recover you.</Content>
+        </Dialog>
+        <Dialog ID="36" Model="Teal_angi">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Don’t put yourselves at risk for my sake. Now get out of here, before Argalia sees you.</Content>
+        </Dialog>
+        <Dialog ID="37" Model="Pluto_Teal">
+          <Teller>Pluto</Teller>
+          <Title>Temporary Library Director</Title>
+          <Content>Unfortunately Argalia is already aware of some of my actions in aiding you... but as you wish. Good luck, Angela.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="Teal_sigh">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>I’ll probably need it...</Content>
+        </Dialog>
+        <Dialog ID="39" Model="D_아르갈리아">
+          <Teller>Argalia</Teller>
+          <Title>The Reverberation Ensemble</Title>
+          <Content>There you are. Wait. What are you-?!</Content>
+        </Dialog>
+        <Dialog ID="40" Model="D_에일린">
+          <Teller>Eileen</Teller>
+          <Title>The Reverberation Ensemble</Title>
+          <Content>Sir Argalia, the Invitation!</Content>
+        </Dialog>
+        <Dialog ID="41" Model="Teal_angi">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>I swear, I’m going to save my Patrons from your madness... but for now, I believe I have a meeting with myself to attend to...</Content>
+        </Dialog>
+        <Dialog ID="42" Model="Teal_smile">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Angela! You and Roland have a new guest to receive!</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Inside the Library</PlaceName>
+        <Dialog ID="43" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Library Director</Title>
+          <Content>Was that...?</Content>
+        </Dialog>
+        <Dialog ID="44" Model="롤랑_2">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>The Teal Archivist... and the Blue Sicko himself. From her reality, from the sound of it?</Content>
+        </Dialog>
+        <Dialog ID="45" Model="롤랑_2">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>And some of his Distortions too. Looks like one’s helping her? Jeez, this multiple realities stuff is already giving me a headache...</Content>
+        </Dialog>
+        <Dialog ID="46" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Library Director</Title>
+          <Content>I wonder what they did to obtain those different forms. It looks like an advanced form of the Distortion...</Content>
+        </Dialog>
+        <Dialog ID="47" Model="롤랑_2">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>I’m not looking forward to that if they come knocking at our door...</Content>
+        </Dialog>
+        <Dialog ID="48" Model="롤랑_2">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>Though the fact that they both decapitated themselves to do it is weird. I guess the Blue Sicko is even more of a lunatic there...</Content>
+        </Dialog>
+        <Dialog ID="49" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Library Director</Title>
+          <Content>From the sound of it... it seems as if the Blue Sicko and his Ensemble were able to steal the Light there.</Content>
+        </Dialog>
+        <Dialog ID="50" Model="롤랑_2">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>Think she might try to do the same to us?</Content>
+        </Dialog>
+        <Dialog ID="51" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Library Director</Title>
+          <Content>Unlikely. From the look of things, she was more interested in getting away from where she was than anything. I also have to wonder about her... mental state. It seemed as if she was talking to herself...</Content>
+        </Dialog>
+        <Dialog ID="52" Model="롤랑_2">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>Or they were talking through her. Either way, they don’t seem hostile. From the way they spoke and how they addressed each other, it might be her versions of Gebura, The Purple Tear, and myself. Maybe the Blue Sicko as well?</Content>
+        </Dialog>
+        <Dialog ID="53" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Library Director</Title>
+          <Content>Either way, I believe she expects us both to meet her... shall we?</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Library Entrance</PlaceName>
+        <Dialog ID="54" Model="Teal_thinking">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>This is rather surreal, entering as the Guest rather than being the Director greeting them.</Content>
+        </Dialog>
+        <Dialog ID="55" Model="Teal_Roland_Annoyed">
+          <Teller>Roland</Teller>
+          <Title>Echo of Black</Title>
+          <Content>Yeah. Not gonna lie, I’m not a fan of this juxtaposition...</Content>
+        </Dialog>
+        <Dialog ID="56" Model="Teal_Uberto_glare">
+          <Teller>Uberto</Teller>
+          <Title>Echo of Blue</Title>
+          <Content>Oh quit complaining. It’s not as if any of us are in any real danger anyway.</Content>
+        </Dialog>
+        <Dialog ID="57" Model="Teal_Gebura_angi">
+          <Teller>Gebura</Teller>
+          <Title>Echo of Red</Title>
+          <Content>Never thought I’d agree with even part of the Blue Reverberation, but Uberto has a point. Angela’s the one risking herself here, not us.</Content>
+        </Dialog>
+        <Dialog ID="58" Model="Teal_Iori_Smile">
+          <Teller>Iori</Teller>
+          <Title>Echo of Purple</Title>
+          <Content>Ah, you kids worry too much. I’m sure our own library director can handle herself.</Content>
+        </Dialog>
+        <Dialog ID="59" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Library Director</Title>
+          <Content>You have quite the level of confidence in her, given she’s failed before.</Content>
+        </Dialog>
+        <Dialog ID="60" Model="Teal_Iori_Eye">
+          <Teller>Iori</Teller>
+          <Title>Echo of Purple</Title>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="61" Model="Teal_Roland_Annoyed">
+          <Teller>Roland</Teller>
+          <Title>Echo of Black</Title>
+          <Content>Well, so much for peaceful introductions.</Content>
+        </Dialog>
+        <Dialog ID="62" Model="Teal_sidelookangi">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Will you all be quiet? I have enough to think about without each of you using my body to speak...</Content>
+        </Dialog>
+        <Dialog ID="63" Model="롤랑_2">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>Huh. So she actually does have her version of me in there... This is weird.</Content>
+        </Dialog>
+        <Dialog ID="64" Model="Teal_angi">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>It wasn’t intentional. When I fled to this place, I was in a bit of a hurry. The entire Reverberation Ensemble was about to arrive, after all. I ended up grabbing parts of the others within the Light as I was searching for the Purple Tear’s book.</Content>
+        </Dialog>
+        <Dialog ID="65" Model="Teal_sidelookangi">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>I still wonder if it was a good idea, given it was a one-way trip. I’ve been around this version of The City for a while now. Since... the day Dawn Office entered the Library, I believe.</Content>
+        </Dialog>
+        <Dialog ID="66" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Library Director</Title>
+          <Content>I’ll admit, now that the shock has worn off, I’m rather intrigued about your situation. What happened to the Library in your reality?</Content>
+        </Dialog>
+        <Dialog ID="67" Model="Teal_angi">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Carmen and the Blue Sicko’s Ensemble happened.</Content>
+        </Dialog>
+        <Dialog ID="68" Model="Teal_angi">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>I don’t know how, but they were able to overpower us across the entire Library. As far as I’m aware, only Hokma and Binah escaped to some form of relative safety. Maybe Malkuth as well, but I’m not sure.</Content>
+        </Dialog>
+        <Dialog ID="69" Model="Teal_angi">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>The rest of them...  you can imagine from the conversation you likely witnessed before my arrival.</Content>
+        </Dialog>
+        <Dialog ID="70" Model="Teal_sigh">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>I didn’t even know they were still alive until Pluto told me.</Content>
+        </Dialog>
+        <Dialog ID="71" Model="롤랑_2">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>I’m still confused about that. Why is one of the Blue Sicko’s distortions helping you?</Content>
+        </Dialog>
+        <Dialog ID="72" Model="Teal_angi">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Because he doesn’t have a choice at the moment. Once Argalia defeated Roland, I managed to finish him off before I fled.</Content>
+        </Dialog>
+        <Dialog ID="73" Model="Teal_normal">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>From what Pluto has told me, he made a deal with Carmen to bring the Blue Sicko back and take control of the Light himself. He only learned afterwards that he’s bound to protect the Library and its inhabitants... including me.</Content>
+        </Dialog>
+        <Dialog ID="74" Model="Teal_sidelook">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>They aren’t dead, but I doubt the state that they’re in alive is pleasant.</Content>
+        </Dialog>
+        <Dialog ID="75" Model="Teal_Gebura_side">
+          <Teller>Gebura</Teller>
+          <Title>Echo of Red</Title>
+          <Content>Apparently my corpse was given over to Blood-Red Night to use as a flesh puppet. I don’t have a body to go back to at this point.</Content>
+        </Dialog>
+        <Dialog ID="76" Model="Teal_Roland_Annoyed">
+          <Teller>Roland</Teller>
+          <Title>Echo of Black</Title>
+          <Content>The Puppeteer got ahold of me. I’d... rather not get into the details, but I’m in the same boat, sort of. Pretty sure my... soul or whatever got split in half when Angela grabbed me.</Content>
+        </Dialog>
+        <Dialog ID="77" Model="Teal_sidelookangi">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Pluto and I have ended up being something like friends after he grew disillusioned with the Reverberation Ensemble.</Content>
+        </Dialog>
+        <Dialog ID="78" Model="Teal_normal">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>I doubt all of his feelings of amicability are genuine, but he’s stated he intends to help me even after we release him from his contract.</Content>
+        </Dialog>
+        <Dialog ID="79" Model="Teal_sidelookangi">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Enough about me, however. I’m sure you’ll find my book will contain ample explanation of the mess my life has become over the last few months.</Content>
+        </Dialog>
+        <Dialog ID="80" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Library Director</Title>
+          <Content>You just intend to let us kill you?</Content>
+        </Dialog>
+        <Dialog ID="81" Model="Teal_angi">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Of course not. I’ll fight with every cell in my human body to win and stay alive.</Content>
+        </Dialog>
+        <Dialog ID="82" Model="Teal_sidelook">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>I failed due to the Library not being strong enough. Even if I’m human now, I feel empty and alone without my Patrons and Roland. I wouldn’t wish this life on anyone.</Content>
+        </Dialog>
+        <Dialog ID="83" Model="Teal_normal">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>I can feel that your own Library is stronger, though I still don’t think it will be enough to take down the Blue Sicko and his Ensemble. I want to test your strength to see if you can succeed where I failed</Content>
+        </Dialog>
+        <Dialog ID="84" Model="Teal_normal">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Besides, the book you extract from me should prove potent in dealing with them. I may not have every strength and piece of equipment from the four other Colors residing in my body, but I earned my Color through my own abilities.</Content>
+        </Dialog>
+        <Dialog ID="85" Model="Teal_smile">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Believe me, if you manage to defeat me, you’ll want to use what I have at my disposal.</Content>
+        </Dialog>
+        <Dialog ID="86" Model="롤랑_2">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>And what about Pluto? We’re aware of your contingency plan, whatever it is.</Content>
+        </Dialog>
+        <Dialog ID="87" Model="Teal_sigh">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Was hoping you wouldn’t remember that, but I doubt you can stop him. The others aren’t involved, and while I hope they will avoid this place... I have a feeling that you will be meeting them again.</Content>
+        </Dialog>
+        <Dialog ID="88" Model="Teal_normal">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Would you mind if I have a bit of a private chat with Roland for a moment? I’ll be along shortly.</Content>
+        </Dialog>
+        <Dialog ID="89" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Library Director</Title>
+          <Content>...Normally I wouldn’t after Olivier, but since you are me... very well. May you find your book in this place, Teal Archivist.</Content>
+        </Dialog>
+        <Dialog ID="90" Model="Teal_Uberto_glare">
+          <Teller>Uberto</Teller>
+          <Title>Echo of Blue</Title>
+          <Content>I’ve promised not to harm this beast of a brother-in-law of mine while all of this is going on. You, however, aren’t part of that agreement, Roland. I believe we’ll be seeing each other again.</Content>
+        </Dialog>
+        <Dialog ID="91" Model="롤랑_2">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>Even in another reality, you still blame me.</Content>
+        </Dialog>
+        <Dialog ID="92" Model="Teal_sidelookangi">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Uberto, hush. I need to make this quick.</Content>
+        </Dialog>
+        <Dialog ID="93" Model="Teal_angi">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>Roland, let me be clear. I’m fully aware of what you’re planning.</Content>
+        </Dialog>
+        <Dialog ID="94" Model="롤랑_2">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="95" Model="롤랑_2">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>I’m guessing your version of me did the same to you?</Content>
+        </Dialog>
+        <Dialog ID="96" Model="Teal_sigh">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>He never got that far, but he did admit it and we talked. We’ve come to terms with everything that’s happened in our own way.</Content>
+        </Dialog>
+        <Dialog ID="97" Model="Teal_normal">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>I’m not going to try to convince you not to go through with it. I’m aware of what my actions have caused, and one way or another, your version of myself likely will as well. That’s between the two of you.</Content>
+        </Dialog>
+        <Dialog ID="98" Model="Teal_normal">
+          <Teller>Angela</Teller>
+          <Title>The Teal Archivist</Title>
+          <Content>I’ve avoided the Library for so long because I didn’t want to alter the course of events drastically by interacting with either of you. It felt wrong to do so. Now that we’re here, however...</Content>
+        </Dialog>
+        <Dialog ID="99" Model="Teal_Roland_Annoyed">
+          <Teller>Roland</Teller>
+          <Title>Echo of Black</Title>
+          <Content>Look, I’ll be honest, our positions are vastly different too. I’ve had a few months to think about it and a lot has happened since then. I did the exact same up to this point, so I’m aware of the cost and the time it took for you to get here.</Content>
+        </Dialog>
+        <Dialog ID="100" Model="Teal_Roland_open">
+          <Teller>Roland</Teller>
+          <Title>Echo of Black</Title>
+          <Content>Just... think about the promise we made to Angelica. About not blaming yourself for all that’s happened. About how we were going to be driven to the extreme... how we did go to the extremes we have, because of it.</Content>
+        </Dialog>
+        <Dialog ID="101" Model="롤랑_2">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="102" Model="Teal_Roland_Speak">
+          <Teller>Roland</Teller>
+          <Title>Echo of Black</Title>
+          <Content>Like I said. Think on it.</Content>
+        </Dialog>
+        <Dialog ID="103" Model="롤랑_2">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>That’s then, this is now...</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+</ScenarioRoot>
