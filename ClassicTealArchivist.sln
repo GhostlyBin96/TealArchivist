@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TealArchivist", "TealArchivist.csproj", "{3B215D75-E01B-42F1-97A2-ADF84E9FF825}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassicTealArchivist", "ClassicTealArchivist.csproj", "{58E93F45-C483-4B08-89D9-9B2755C6DA0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3B215D75-E01B-42F1-97A2-ADF84E9FF825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B215D75-E01B-42F1-97A2-ADF84E9FF825}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3B215D75-E01B-42F1-97A2-ADF84E9FF825}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3B215D75-E01B-42F1-97A2-ADF84E9FF825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E93F45-C483-4B08-89D9-9B2755C6DA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E93F45-C483-4B08-89D9-9B2755C6DA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E93F45-C483-4B08-89D9-9B2755C6DA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E93F45-C483-4B08-89D9-9B2755C6DA0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9716AE9C-7CC3-4D2A-8A5A-E653C1719273}
+		SolutionGuid = {6403123F-2036-4F69-9974-DCE10040C308}
 	EndGlobalSection
 EndGlobal
