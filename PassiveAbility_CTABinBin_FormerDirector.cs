@@ -1,6 +1,6 @@
-﻿namespace Teal_Archivist
+﻿namespace ClassicTealArchivist
 {
-    public class PassiveAbility_TABinBin_FormerDirector : PassiveAbilityBase
+    public class PassiveAbility_CTABinBin_FormerDirector : PassiveAbilityBase
 	{
 		public static string Desc = "At the end of each scene, all allies gain 1 Negative Emotion Coin. User’s Pages cost 1 less Light to play.";
 		public override void OnRoundEnd() {

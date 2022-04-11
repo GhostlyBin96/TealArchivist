@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using LOR_DiceSystem;
 using UnityEngine;
 
-namespace Teal_Archivist
+namespace ClassicTealArchivist
 {
-	public class PassiveAbility_TABinBin_RedMist : PassiveAbility_250322
+	public class PassiveAbility_CTABinBin_RedMist : PassiveAbility_250322
 	{
 		public override string debugDesc
 		{

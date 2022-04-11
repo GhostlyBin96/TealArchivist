@@ -1,6 +1,6 @@
-﻿namespace TealArchivist
+﻿namespace ClassicTealArchivist
 {
-    public class DiceCardAbility_TABinBin_damage3energy : DiceCardAbilityBase
+    public class DiceCardAbility_CTABinBin_damage3energy : DiceCardAbilityBase
 	{
 		public static string Desc = "[On Hit] Deal 3 damage to target; Restore 1 Light";
 		public override string[] Keywords

@@ -1,6 +1,6 @@
-﻿namespace TealArchivist
+﻿namespace ClassicTealArchivist
 {
-    public class DiceCardAbility_TABinBin_break3Strength : DiceCardAbilityBase
+    public class DiceCardAbility_CTABinBin_break3Strength : DiceCardAbilityBase
 	{
 		public static string Desc = "[On Hit] Deal 3 Stagger damage to target; Gain 1 Strength next Scene";
 		public override string[] Keywords

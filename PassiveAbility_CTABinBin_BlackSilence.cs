@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Teal_Archivist
+namespace ClassicTealArchivist
 {
-	public class PassiveAbility_TABinBin_BlackSilence : PassiveAbility_10013
+	public class PassiveAbility_CTABinBin_BlackSilence : PassiveAbility_10013
 	{
 		public override string debugDesc
 		{

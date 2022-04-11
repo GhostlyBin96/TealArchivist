@@ -1,6 +1,6 @@
-﻿namespace TealArchivist
+﻿namespace ClassicTealArchivist
 {
-	public class DiceCardSelfAbility_TABinBin_energy2Endurance : DiceCardSelfAbilityBase
+	public class DiceCardSelfAbility_CTABinBin_energy2Endurance : DiceCardSelfAbilityBase
 	{
 		public static string Desc = "[On Use] Restore 2 Light; Gain 1 Endurance next scene";
 		

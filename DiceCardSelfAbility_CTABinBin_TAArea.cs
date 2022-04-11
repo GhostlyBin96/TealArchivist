@@ -1,6 +1,6 @@
-﻿namespace TealArchivist
+﻿namespace ClassicTealArchivist
 {
-	public class DiceCardSelfAbility_TABinBin_TAArea : DiceCardSelfAbility_bandFinalBase
+	public class DiceCardSelfAbility_CTABinBin_TAArea : DiceCardSelfAbility_bandFinalBase
 	{
 		public static string Desc = "Usable on and after the third Scene This page is exhausted on use and returns to hand after 4 Scenes";
 		public override string[] Keywords
