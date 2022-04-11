@@ -9,7 +9,7 @@
     <CanReceivePassive>false</CanReceivePassive>
     <InnerType>1</InnerType>
     <Cost>10</Cost>
-    <Script>TABinBin_SpeedV</Script>
+    <Script>CTABinBin_SpeedV</Script>
     <Name>Speed V</Name>
     <Desc>Speed Dice Slot +2. Gain an additional Speed die at Emotion Level 3. (Cannot Overlap)</Desc>
   </Passive>
@@ -18,11 +18,11 @@
     <IsHide>false</IsHide>
     <Rarity>Unique</Rarity>
     <Lock>false</Lock>
-    <CanGivePassive>true</CanGivePassive>
+    <CanGivePassive>false</CanGivePassive>
     <CanReceivePassive>false</CanReceivePassive>
     <InnerType>-1</InnerType>
     <Cost>8</Cost>
-    <Script>TABinBin_BlueReverberation</Script>
+    <Script>CTABinBin_BlueReverberation</Script>
     <Name>Echo of Blue</Name>
     <Desc>Immune to Range Attacks. Draw 2 Cards at the start of the Act. Take 1-2 less damage and Stagger damage from attacks.</Desc>
   </Passive>
@@ -31,11 +31,11 @@
     <IsHide>false</IsHide>
     <Rarity>Unique</Rarity>
     <Lock>false</Lock>
-    <CanGivePassive>true</CanGivePassive>
+    <CanGivePassive>false</CanGivePassive>
     <CanReceivePassive>false</CanReceivePassive>
     <InnerType>-1</InnerType>
     <Cost>7</Cost>
-    <Script>TABinBin_RedMist</Script>
+    <Script>CTABinBin_RedMist</Script>
     <Name>Echo of Red</Name>
     <Desc>Choose the Speed dice with the lowest value; the Speed values of the dice change to the maximum possible value. When using a Melee Combat Page, all dice on the page gain Power against targets with slower Speed. (+1 Power per 2 points of difference, up to 3)</Desc>
   </Passive>
@@ -44,11 +44,11 @@
     <IsHide>false</IsHide>
     <Rarity>Unique</Rarity>
     <Lock>false</Lock>
-    <CanGivePassive>true</CanGivePassive>
+    <CanGivePassive>false</CanGivePassive>
     <CanReceivePassive>false</CanReceivePassive>
     <InnerType>-1</InnerType>
     <Cost>9</Cost>
-    <Script>TABinBin_PurpleTear</Script>
+    <Script>CTABinBin_PurpleTear</Script>
     <Name>Echo of Purple</Name>
     <Desc>Defensive Dice Power +2. When inflicted with a status ailment, reduce the amount by half. (Rounded down, does not go below 1)</Desc>
   </Passive>
@@ -57,11 +57,11 @@
     <IsHide>false</IsHide>
     <Rarity>Unique</Rarity>
     <Lock>false</Lock>
-    <CanGivePassive>true</CanGivePassive>
+    <CanGivePassive>false</CanGivePassive>
     <CanReceivePassive>false</CanReceivePassive>
     <InnerType>-1</InnerType>
     <Cost>9</Cost>
-    <Script>TABinBin_BlackSilence</Script>
+    <Script>CTABinBin_BlackSilence</Script>
     <Name>Echo of Black</Name>
     <Desc>At the start of the Scene, draw until 5 pages are in hand. All dice on every third Combat Page used gain +2 Power.</Desc>
   </Passive>
@@ -74,7 +74,7 @@
     <CanReceivePassive>false</CanReceivePassive>
     <InnerType>-1</InnerType>
     <Cost>6</Cost>
-    <Script>TABinBin_FormerDirector</Script>
+    <Script>CTABinBin_FormerDirector</Script>
     <Name>Former Director of Her Role's Namesake</Name>
     <Desc>At the end of each scene, all allies gain 1 Negative Emotion Coin. User’s Pages cost 1 less Light to play.</Desc>
   </Passive>

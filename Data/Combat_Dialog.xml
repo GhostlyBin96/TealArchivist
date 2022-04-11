@@ -23,7 +23,9 @@
       <BattleDialog ID="3">If I have to die... use the Page of my Book. Change fate.</BattleDialog>
       <BattleDialog ID="4">Ah... this is what I put them through... I suppose it could be... worse...</BattleDialog>
     </Type>
-    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
     <Type ID="KILLS_OPPONENT">
       <BattleDialog ID="0">More sins and blood on my hands...</BattleDialog>
       <BattleDialog ID="1">It's just business. You know as well as I how this works...</BattleDialog>

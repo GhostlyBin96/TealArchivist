@@ -34,7 +34,7 @@
     <Script>energy2</Script>
     <ScriptDesc />
     <BehaviourList>
-      <Behaviour Min="3" Dice="7" Type="Atk" Detail="Penetrate" Motion="S2" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="3" Dice="7" Type="Atk" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
       <Behaviour Min="2" Dice="6" Type="Standby" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="" Script="bleeding2atk" ActionScript="" Desc="" />
     </BehaviourList>
     <Chapter>7</Chapter>
@@ -80,7 +80,7 @@
     <Artwork>TA_RedViolet.png</Artwork>
     <Rarity>Rare</Rarity>
     <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
-    <Script>TABinBin_energy2Endurance</Script>
+    <Script>CTABinBin_energy2Endurance</Script>
     <ScriptDesc />
     <BehaviourList>
       <Behaviour Min="4" Dice="10" Type="Def" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
@@ -108,8 +108,8 @@
     <ScriptDesc />
     <BehaviourList>
       <Behaviour Min="6" Dice="10" Type="Def" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
-      <Behaviour Min="5" Dice="9" Type="Atk" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="" Script="TABinBin_damage3energy" ActionScript="" Desc="" />
-      <Behaviour Min="5" Dice="9" Type="Atk" Detail="Hit" Motion="H" MotionDefault="N" EffectRes="Argalia_H" Script="TABinBin_break3Strength" ActionScript="" Desc="" />
+      <Behaviour Min="5" Dice="9" Type="Atk" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="" Script="CTABinBin_damage3energy" ActionScript="" Desc="" />
+      <Behaviour Min="5" Dice="9" Type="Atk" Detail="Hit" Motion="H" MotionDefault="N" EffectRes="Argalia_H" Script="CTABinBin_break3Strength" ActionScript="" Desc="" />
     </BehaviourList>
     <Chapter>7</Chapter>
     <SpecialEffect />
@@ -183,9 +183,9 @@
     <Script>nothingEgo</Script>
     <ScriptDesc />
     <BehaviourList>
-      <Behaviour Min="15" Dice="25" Type="Atk" Detail="Slash" Motion="S1" MotionDefault="N" EffectRes="" Script="TABinBin_StealEnergy3" ActionScript="" Desc="" />
-      <Behaviour Min="10" Dice="15" Type="Standby" Detail="Slash" Motion="J" MotionDefault="N" EffectRes="" Script="bleeding4atk" ActionScript="" Desc="" />
-      <Behaviour Min="5" Dice="10" Type="Standby" Detail="Slash" Motion="J" MotionDefault="N" EffectRes="" Script="bleeding2atk" ActionScript="" Desc="" />
+      <Behaviour Min="15" Dice="25" Type="Atk" Detail="Slash" Motion="S1" MotionDefault="N" EffectRes="" Script="CTABinBin_StealEnergy3" ActionScript="" Desc="" />
+      <Behaviour Min="4" Dice="8" Type="Standby" Detail="Slash" Motion="J" MotionDefault="N" EffectRes="" Script="bleeding3atk" ActionScript="" Desc="" />
+      <Behaviour Min="4" Dice="8" Type="Standby" Detail="Slash" Motion="J" MotionDefault="N" EffectRes="" Script="bleeding3atk" ActionScript="" Desc="" />
     </BehaviourList>
     <Chapter>7</Chapter>
     <SpecialEffect />
@@ -206,12 +206,12 @@
     <Rarity>Unique</Rarity>
     <Spec Range="FarAreaEach" Cost="8" Affection="Team" EmotionLimit="0" />
     <Option>OnlyPage</Option>
-    <Script>TABinBin_TAArea</Script>
+    <Script>CTABinBin_TAArea</Script>
     <ScriptDesc />
     <BehaviourList>
-      <Behaviour Min="6" Dice="8" Type="Atk" Detail="Penetrate" Motion="F" EffectRes="" Script="bind1paralysis1atk" ActionScript="Roland2_FarArea_SmokeArea" Desc="" />
       <Behaviour Min="8" Dice="15" Type="Atk" Detail="Slash" Motion="J" EffectRes="" Script="kaliAreaDice" ActionScript="RedMist_BigSeveringHori" Desc="" />
-      <Behaviour Min="5" Dice="7" Type="Atk" Detail="Hit" Motion="S3" EffectRes="" Script="nullifyPowerAtk" ActionScript="argalia_area" Desc="" />
+      <Behaviour Min="6" Dice="8" Type="Atk" Detail="Hit" Motion="S3" EffectRes="" Script="nullifyPowerAtk" ActionScript="argalia_area" Desc="" />
+      <Behaviour Min="5" Dice="7" Type="Atk" Detail="Penetrate" Motion="Z" EffectRes="" Script="bind1paralysis1atk" ActionScript="BlackSilence_4th_Area" Desc="" />
       <Behaviour Min="5" Dice="7" Type="Atk" Detail="Penetrate" Motion="S2" MotionDefault="N" EffectRes="" Script="purpleAreaDice3" ActionScript="purpletear_miragestorm" Desc="" />
     </BehaviourList>
     <Chapter>7</Chapter>
