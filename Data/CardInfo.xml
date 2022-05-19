@@ -180,7 +180,7 @@
     <Rarity>Unique</Rarity>
     <Spec Range="Near" Cost="5" Affection="One" EmotionLimit="0" />
     <Option>OnlyPage</Option>
-    <Script>nothingEgo</Script>
+    <Script>CTABinBin_MimicryNoCost</Script>
     <ScriptDesc />
     <BehaviourList>
       <Behaviour Min="15" Dice="25" Type="Atk" Detail="Slash" Motion="S1" MotionDefault="N" EffectRes="" Script="CTABinBin_StealEnergy3" ActionScript="" Desc="" />
@@ -210,7 +210,7 @@
     <ScriptDesc />
     <BehaviourList>
       <Behaviour Min="8" Dice="15" Type="Atk" Detail="Slash" Motion="J" EffectRes="" Script="kaliAreaDice" ActionScript="RedMist_BigSeveringHori" Desc="" />
-      <Behaviour Min="6" Dice="8" Type="Atk" Detail="Hit" Motion="S3" EffectRes="" Script="nullifyPowerAtk" ActionScript="argalia_area" Desc="" />
+      <Behaviour Min="6" Dice="8" Type="Atk" Detail="Hit" Motion="S3" EffectRes="" Script="CTABinBin_PowerNullArea" ActionScript="argalia_area" Desc="" />
       <Behaviour Min="5" Dice="7" Type="Atk" Detail="Penetrate" Motion="Z" EffectRes="" Script="bind1paralysis1atk" ActionScript="BlackSilence_4th_Area" Desc="" />
       <Behaviour Min="5" Dice="7" Type="Atk" Detail="Penetrate" Motion="S2" MotionDefault="N" EffectRes="" Script="purpleAreaDice3" ActionScript="purpletear_miragestorm" Desc="" />
     </BehaviourList>

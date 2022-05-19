@@ -37,7 +37,7 @@
     <Cost>7</Cost>
     <Script>CTABinBin_RedMist</Script>
     <Name>Echo of Red</Name>
-    <Desc>Choose the Speed dice with the lowest value; the Speed values of the dice change to the maximum possible value. When using a Melee Combat Page, all dice on the page gain Power against targets with slower Speed. (+1 Power per 2 points of difference, up to 3)</Desc>
+    <Desc>Choose the Speed dice with the lowest value; the Speed values of the dice change to the maximum possible value. When using a Melee Combat Page, all dice on the page gain Power against targets with slower Speed. (+1 Power per 2 points of difference, up to 3). Does not stack with Myo's Prowess.</Desc>
   </Passive>
   <Passive ID="4">
     <Negative>false</Negative>

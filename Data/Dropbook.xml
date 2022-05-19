@@ -4,7 +4,7 @@
   <BookUse ID="1">
     <Name>Book of the Classic Teal Archivist</Name>
     <TextId />
-    <BookIcon>TealArchivist</BookIcon>
+    <BookIcon>ClassicTealArchivist</BookIcon>
     <Chapter>7</Chapter>
     <BookValue>0</BookValue>
     <DropItem Type="Equip">10000001</DropItem>

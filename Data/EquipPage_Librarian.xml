@@ -2,10 +2,10 @@
 <BookXmlRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.1</Version>
   <Book ID="10000001">
-    <Name>The CLassic Teal Archivist's Page</Name>
+    <Name>The Classic Teal Archivist's Page</Name>
     <TextId>-1</TextId>
     <Category>DeckFixed</Category>
-    <BookIcon>TealArchivist</BookIcon>
+    <BookIcon>ClassicTealArchivist</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
       <HP>101</HP>

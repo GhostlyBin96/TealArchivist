@@ -4,7 +4,7 @@
   <Book ID="1">
     <Name>The Classic Teal Archivist's Page</Name>
     <TextId>-1</TextId>
-    <BookIcon>TealArchivist</BookIcon>
+    <BookIcon>ClassicTealArchivist</BookIcon>
     <EquipEffect>
       <HpReduction>0</HpReduction>
       <HP>900</HP>
@@ -46,5 +46,8 @@
     <SoundInfo Motion="H" WinExternal="false" Win="Blue_Argalria_Atk" LoseExternal="false" Lose="" />
     <SoundInfo Motion="J" WinExternal="false" Win="Kali_Normal_Hori" LoseExternal="false" Lose="" />
     <SoundInfo Motion="Z" WinExternal="false" Win="Roland_DuelSword_Strong" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="S1" WinExternal="false" Win="Kali_Special_Vert_Fin" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="S2" WinExternal="false" Win="Purple_Slash_VertUp" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="S3" WinExternal="false" Win="Blue_Argalria_Strong_Atk2" LoseExternal="false" Lose="" />
   </Book>
 </BookXmlRoot>
