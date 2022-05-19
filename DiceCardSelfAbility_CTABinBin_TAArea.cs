@@ -1,4 +1,4 @@
-﻿namespace ClassicTealArchivist
+﻿namespace Classic_Teal
 {
 	public class DiceCardSelfAbility_CTABinBin_TAArea : DiceCardSelfAbility_bandFinalBase
 	{

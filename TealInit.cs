@@ -7,12 +7,12 @@ using UI;
 using UnityEngine;
 using Workshop;
 
-namespace ClassicTealArchivist
+namespace Classic_Teal
 {
     class TealInit : ModInitializer
     {
         public override void OnInitializeMod() {
-            Harmony harmony = new Harmony("LoR.uGuardian.ClassicTealArchivist");
+            Harmony harmony = new Harmony("LoR.uGuardian.Classic_Teal");
             harmony.Patch(typeof(UISpriteDataManager).GetMethod("SetStoryIconDictionary", AccessTools.all), new HarmonyMethod(typeof(TealInit).GetMethod("AddIcon")));
             Singleton<ModContentManager>.Instance.GetErrorLogs().RemoveAll(x => dllList.Exists(x.Contains));
         }
@@ -37,7 +37,7 @@ namespace ClassicTealArchivist
                 // Adds TealArchivist Icon to icon list before init.
                 __instance._storyicons.Add(TealArchivistIcon);
             } catch {
-                Singleton<ModContentManager>.Instance.AddErrorLog("Failed to load ClassicTealArchivist icon");
+                Singleton<ModContentManager>.Instance.AddErrorLog("Failed to load Classic_Teal icon");
             }
         }
         readonly List<string> dllList = new List<string> {

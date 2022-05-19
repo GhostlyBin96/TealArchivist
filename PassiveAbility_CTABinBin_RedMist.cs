@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using LOR_DiceSystem;
 using UnityEngine;
 
-namespace ClassicTealArchivist
+namespace Classic_Teal
 {
 	public class PassiveAbility_CTABinBin_RedMist : PassiveAbility_250322
 	{
@@ -14,8 +14,14 @@ namespace ClassicTealArchivist
 				return "Choose the Speed dice with the lowest value; the Speed values of the dice change to the maximum possible value. When using a Melee Combat Page, all dice on the page gain Power against targets with slower Speed. (+1 Power per 2 points of difference, up to 3)";
 			}
 		}
-		public static string Desc = "Choose the Speed dice with the lowest value; the Speed values of the dice change to the maximum possible value. When using a Melee Combat Page, all dice on the page gain Power against targets with slower Speed. (+1 Power per 2 points of difference, up to 3)";
-
+		public override void OnWaveStart()
+		{
+			PassiveAbilityBase prowess = this.owner.passiveDetail.PassiveList.Find(x => x is PassiveAbility_250024);
+			if (prowess != null)
+			{
+				this.owner.passiveDetail.DestroyPassive(prowess);
+			}
+		}
 		public override void OnUseCard(BattlePlayingCardDataInUnitModel curCard)
 		{
 			int speedDiceResultValue = curCard.speedDiceResultValue;

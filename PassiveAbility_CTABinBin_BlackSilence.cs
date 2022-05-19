@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ClassicTealArchivist
+namespace Classic_Teal
 {
 	public class PassiveAbility_CTABinBin_BlackSilence : PassiveAbility_10013
 	{

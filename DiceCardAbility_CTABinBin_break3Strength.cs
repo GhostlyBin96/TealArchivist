@@ -1,4 +1,4 @@
-﻿namespace ClassicTealArchivist
+﻿namespace Classic_Teal
 {
     public class DiceCardAbility_CTABinBin_break3Strength : DiceCardAbilityBase
 	{

@@ -1,4 +1,4 @@
-﻿namespace ClassicTealArchivist
+﻿namespace Classic_Teal
 {
     public class PassiveAbility_CTABinBin_FormerDirector : PassiveAbilityBase
 	{
