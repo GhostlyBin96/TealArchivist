@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BookXmlRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1.1</Version>
+  <Book ID="10000001">
+    <Name>The Classic Teal Archivist's Page</Name>
+    <TextId>-1</TextId>
+    <Category>DeckFixed</Category>
+    <BookIcon>ClassicTealArchivist</BookIcon>
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>101</HP>
+      <DeadLine>0</DeadLine>
+      <Break>71</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>8</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Endure</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <HBResist>Endure</HBResist>
+      <MaxPlayPoint>4</MaxPlayPoint>
+      <StartPlayPoint>4</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive>1</Passive>
+      <Passive>2</Passive>
+      <Passive>3</Passive>
+      <Passive>4</Passive>
+      <Passive>5</Passive>
+      <Passive>6</Passive>
+    </EquipEffect>
+    <Rarity>Unique</Rarity>
+    <CharacterSkin>TALibrarian</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>7</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Hybrid</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+    <SoundInfo Motion="F" WinExternal="false" Win="Roland_Revolver" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="E" WinExternal="false" Win="Roland_Evasion" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="G" WinExternal="false" Win="Roland_Guard" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="H" WinExternal="false" Win="Blue_Argalria_Atk" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="J" WinExternal="false" Win="Kali_Normal_Hori" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="Z" WinExternal="false" Win="Roland_DuelSword_Strong" LoseExternal="false" Lose="" />
+  </Book>
+</BookXmlRoot>
