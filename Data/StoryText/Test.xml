@@ -17,112 +17,137 @@
         <Dialog ID="1" Model="롤랑_2">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>Do you think she was telling the truth? About that Pluto guy showing up, I mean.</Content>
+          <Content>Wasn’t expecting all of that either. I think that’s more than enough of your reality-hopping twin’s mind I didn’t need to see, no offense.</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
-          <Content>I don’t know. Hopefully not, but she spoke with such confidence that I-</Content>
+          <Content>I believe I can say the same. That was… far too personal. Is there really a chance we’ll end up in the same state?</Content>
         </Dialog>
       </Place>
       <Place>
         <PlaceName>Inside the Library</PlaceName>
-        <Dialog ID="3" Model="Pluto_Teal">
-          <Teller>Pluto</Teller>
-          <Title>Temporary Library Director</Title>
-          <Content>Believe it is only a matter of time, Director?</Content>
+        <Dialog ID="3" Model="롤랑_2">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>Well, we got her book, and she said it would probably help. Speaking of. Do you think she was telling the truth? About that Pluto guy showing up, I mean.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
+          <Content>I don’t know. Hopefully not, but she spoke with such confidence that I-</Content>
+        </Dialog>
+        <Dialog ID="5" Model="Pluto_Teal">
+          <Teller>Pluto</Teller>
+          <Title>Provisional Library Director</Title>
+          <Content>Believe it is only a matter of time, Director?</Content>
+        </Dialog>
+        <Dialog ID="6" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Library Director</Title>
           <Content>How did you...?</Content>
         </Dialog>
-        <Dialog ID="5" Model="롤랑_2">
+        <Dialog ID="7" Model="롤랑_2">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <Content>That’s a first. Angela, stay back.</Content>
         </Dialog>
-        <Dialog ID="6" Model="Pluto_Teal">
+        <Dialog ID="8" Model="Pluto_Teal">
           <Teller>Pluto</Teller>
-          <Title>Temporary Library Director</Title>
+          <Title>Provisional Library Director</Title>
           <Content>As Miss Teal told you, I have significant control of the Light from our reality. Arriving here was child’s play with my own magic.</Content>
         </Dialog>
-        <Dialog ID="7" Model="Pluto_Teal">
+        <Dialog ID="9" Model="Pluto_Teal">
           <Teller>Pluto</Teller>
-          <Title>Temporary Library Director</Title>
+          <Title>Provisional Library Director</Title>
           <Content>As for you, Roland, lower your blade. I didn’t come here to fight... Though after what both versions of you have done, I certainly wouldn’t mind putting you in your place. Not that you likely remember me.</Content>
         </Dialog>
-        <Dialog ID="8" Model="롤랑_2">
+        <Dialog ID="10" Model="롤랑_2">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <Content>Remember you? When...</Content>
         </Dialog>
-        <Dialog ID="9" Model="롤랑_2">
+        <Dialog ID="11" Model="롤랑_2">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <Content>Right... that fixer smuggling Enkephalin to O-Corp.</Content>
         </Dialog>
-        <Dialog ID="10" Model="Pluto_Teal">
+        <Dialog ID="12" Model="Pluto_Teal">
           <Teller>Pluto</Teller>
-          <Title>Temporary Library Director</Title>
+          <Title>Provisional Library Director</Title>
           <Content>I’m surprised you remembered. Indeed I am, though as you can plainly see much has changed since then. Sadly I’m not as open with my life as Miss Teal is, so I’ll leave you to ruminate on that...</Content>
         </Dialog>
-        <Dialog ID="11" Model="앤젤라">
+        <Dialog ID="13" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <Content>What?</Content>
         </Dialog>
-        <Dialog ID="12" Model="아르갈리아">
+        <Dialog ID="14" Model="아르갈리아">
           <Teller>Uberto</Teller>
           <Title>Fragment of Argalia</Title>
           <Content>Thank you, Pluto.</Content>
         </Dialog>
-        <Dialog ID="13" Model="Pluto_Teal">
+        <Dialog ID="15" Model="Pluto_Teal">
           <Teller>Pluto</Teller>
-          <Title>Temporary Library Director</Title>
+          <Title>Provisional Library Director</Title>
           <Content>Of course, Sir Uberto.</Content>
         </Dialog>
-        <Dialog ID="14" Model="Gebura_raisedeyebrow">
+        <Dialog ID="16" Model="아르갈리아">
+          <Teller>Uberto</Teller>
+          <Title>Fragment of Argalia</Title>
+          <Content>Please, my friend, no need for formalities between us.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="Gebura_raisedeyebrow">
           <Teller>Gebura</Teller>
           <Title>The Red Mist</Title>
           <Content>Wasn’t expecting you to use part of Angela’s Light to make our bodies. Not that I’m complaining...</Content>
         </Dialog>
-        <Dialog ID="15" Model="롤랑_3">
+        <Dialog ID="18" Model="롤랑_3">
           <Teller>Roland</Teller>
           <Title>The Black Silence?</Title>
           <Content>...Thanks.</Content>
         </Dialog>
-        <Dialog ID="16" Model="Pluto_Teal">
+        <Dialog ID="19" Model="Pluto_Teal">
           <Teller>Pluto</Teller>
-          <Title>Temporary Library Director</Title>
-          <Content>I’m a man of my word, regardless of my personal feelings.</Content>
+          <Title>Provisional Library Director</Title>
+          <Content>I’m a man of my word, regardless of my personal feelings. Miss Teal requested the three of you not share her fate, and I acquiesced.</Content>
         </Dialog>
-        <Dialog ID="17" Model="Pluto_Teal">
+        <Dialog ID="20" Model="Pluto_Teal">
           <Teller>Pluto</Teller>
-          <Title>Temporary Library Director</Title>
-          <Content>You’ll find that I haven’t touched anything outside of Miss Teal’s book, Director. As I said, I didn’t come here for a fight. Merely to fulfil the request of our version of yourself. Farewell.</Content>
+          <Title>Provisional Library Director</Title>
+          <Content>You’ll find that I haven’t touched anything outside of Miss Teal’s book, Director. As I said, I didn’t come here for a fight. Merely to fulfill your counterpart’s request. Farewell.</Content>
         </Dialog>
-        <Dialog ID="18" Model="롤랑_2">
+        <Dialog ID="21" Model="롤랑_2">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <Content>I suppose you want an explanation?</Content>
         </Dialog>
-        <Dialog ID="19" Model="앤젤라">
+        <Dialog ID="22" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
-          <Content>No. I have far, far too much to think about... I need some time, and it isn’t any of my business anyway. That’s that and this is this, right?</Content>
+          <Content>...Are you going to actually give me one? You’ve already lied by omission about being the Black Silence, Roland... and I meant what I said. I’m sick of people stabbing me in the back.</Content>
         </Dialog>
-        <Dialog ID="20" Model="롤랑_2">
+        <Dialog ID="23" Model="롤랑_2">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
-          <Content>Right...</Content>
+          <Content>Right... I-</Content>
         </Dialog>
-        <Dialog ID="21" Model="앤젤라">
+        <Dialog ID="24" Model="롤랑_2">
+          <Teller>Roland</Teller>
+          <Title>Servant</Title>
+          <Content>...I’ll tell you after we deal with the Blue Sicko and his crazies, alright? I’ll come clean then.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
-          <Content>Thank you for trying to defend me. Even with everything that’s going on.</Content>
+          <Content>...Fine. I’ll hold you to that. I forgave you then. I can do so now. Just don’t make it a habit, alright?</Content>
         </Dialog>
-        <Dialog ID="22" Model="롤랑_2">
+        <Dialog ID="26" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Library Director</Title>
+          <Content>And... Thank you for trying to defend me. Even with everything that’s going on.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="롤랑_2">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <Content>Like I said before. Just doing my job, ma’am.</Content>
@@ -130,72 +155,72 @@
       </Place>
       <Place>
         <PlaceName>Somewhere in the Teal Archivist’s Library</PlaceName>
-        <Dialog ID="23" Model="Pluto_Teal">
+        <Dialog ID="28" Model="Pluto_Teal">
           <Teller>Pluto</Teller>
-          <Title>Temporary Library Director</Title>
+          <Title>Provisional Library Director</Title>
           <Content>It would appear that our window of opportunity is growing shorter, Uberto.</Content>
-        </Dialog>
-        <Dialog ID="24" Model="아르갈리아">
-          <Teller>Uberto</Teller>
-          <Title>Fragment of Argalia</Title>
-          <Content>Indeed... I was hoping we would have more time before the arrival of that reality’s Ensemble and Roland going about his little revenge plan.</Content>
-        </Dialog>
-        <Dialog ID="25" Model="아르갈리아">
-          <Teller>Uberto</Teller>
-          <Title>Fragment of Argalia</Title>
-          <Content>Oh well.~ While I find Angela’s attempts to prevent the inevitable endearing, it isn’t our problem. As long as we retrieve her in time, we’ll be able to wash our hands of this nonsense.</Content>
-        </Dialog>
-        <Dialog ID="26" Model="아르갈리아">
-          <Teller>Uberto</Teller>
-          <Title>Fragment of Argalia</Title>
-          <Content>Iori’s out of the picture as well, and without any of us having to lift a finger.</Content>
-        </Dialog>
-        <Dialog ID="27" Model="아르갈리아">
-          <Teller>Uberto</Teller>
-          <Title>Fragment of Argalia</Title>
-          <Content>Besides, we have our own issues to worry about. I was hoping that Eileen would be willing to join us, but it seems her conviction lies with Argalia and not myself. Best to leave her be for now. Any idea where Philip is?</Content>
-        </Dialog>
-        <Dialog ID="28" Model="정장 필립">
-          <Teller>Philip</Teller>
-          <Title>The Crying Children</Title>
-          <Content>Right here.</Content>
         </Dialog>
         <Dialog ID="29" Model="아르갈리아">
           <Teller>Uberto</Teller>
           <Title>Fragment of Argalia</Title>
-          <Content>Excellent timing, my friend. Grab that sword Angela gave you, would you? I need your help. I believe it’s time we trim the fat and get our little group back in order.</Content>
+          <Content>Indeed... I was hoping we would have more time before the arrival of that reality’s Ensemble and Roland going about his little revenge plan.</Content>
         </Dialog>
         <Dialog ID="30" Model="아르갈리아">
           <Teller>Uberto</Teller>
           <Title>Fragment of Argalia</Title>
-          <Content>Maybe I’ll talk with Elena on the way down. She’s likely to see reason, given she listened to Binah during our original incursion.</Content>
+          <Content>Oh well.~ While I find Angela’s attempts to prevent the inevitable endearing, it isn’t our problem. As long as we retrieve her in time, we’ll be able to wash our hands of this nonsense.</Content>
         </Dialog>
-        <Dialog ID="31" Model="Gebura_raisedeyebrow">
-          <Teller>Gebura</Teller>
-          <Title>The Red Mist</Title>
-          <Content>Hopefully after I have a chat of my own with her, right Ar- Uberto?</Content>
+        <Dialog ID="31" Model="아르갈리아">
+          <Teller>Uberto</Teller>
+          <Title>Fragment of Argalia</Title>
+          <Content>Iori’s out of the picture as well, and without any of us having to lift a finger.</Content>
         </Dialog>
         <Dialog ID="32" Model="아르갈리아">
           <Teller>Uberto</Teller>
           <Title>Fragment of Argalia</Title>
+          <Content>Besides, we have our own issues to worry about. I was hoping that Eileen would be willing to join us, but it seems her conviction lies with Argalia and not myself. Best to leave her be for now. Any idea where Philip is?</Content>
+        </Dialog>
+        <Dialog ID="33" Model="정장 필립">
+          <Teller>Philip</Teller>
+          <Title>The Crying Children</Title>
+          <Content>Right here.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="아르갈리아">
+          <Teller>Uberto</Teller>
+          <Title>Fragment of Argalia</Title>
+          <Content>Excellent timing, my friend. Grab that sword Angela gave you, would you? I need your help. I believe it’s time we trim the fat and get our little group back in order.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="아르갈리아">
+          <Teller>Uberto</Teller>
+          <Title>Fragment of Argalia</Title>
+          <Content>Maybe I’ll talk with Elena on the way down. She’s likely to see reason, given she listened to Binah during our original incursion.</Content>
+        </Dialog>
+        <Dialog ID="36" Model="Gebura_raisedeyebrow">
+          <Teller>Gebura</Teller>
+          <Title>The Red Mist</Title>
+          <Content>Hopefully after I have a chat of my own with her, right Ar- Uberto?</Content>
+        </Dialog>
+        <Dialog ID="37" Model="아르갈리아">
+          <Teller>Uberto</Teller>
+          <Title>Fragment of Argalia</Title>
           <Content>That depends on what exactly you intend to do. We may be colleagues of a sort, Geb, but I'd prefer if you didn't bisect one of my friends...</Content>
         </Dialog>
-        <Dialog ID="33" Model="Gebura_normal">
+        <Dialog ID="38" Model="Gebura_normal">
           <Teller>Gebura</Teller>
           <Title>The Red Mist</Title>
           <Content>Of course not. I just need to check on my old body and get whatever's left of myself from it.</Content>
         </Dialog>
-        <Dialog ID="34" Model="Gebura_normal">
+        <Dialog ID="39" Model="Gebura_normal">
           <Teller>Gebura</Teller>
           <Title>The Red Mist</Title>
           <Content>If you're going to cut your Ensemble down to size, I'm withholding judgment until I see who's staying and who's getting kicked out.</Content>
         </Dialog>
-        <Dialog ID="35" Model="Gebura_raisedeyebrow">
+        <Dialog ID="40" Model="Gebura_raisedeyebrow">
           <Teller>Gebura</Teller>
           <Title>The Red Mist</Title>
           <Content>Besides, I can’t exactly judge the three of you given the circumstances. Maybe the others will surprise me and come around to our way of thinking about all of this.</Content>
         </Dialog>
-        <Dialog ID="36" Model="아르갈리아">
+        <Dialog ID="41" Model="아르갈리아">
           <Teller>Uberto</Teller>
           <Title>ment of Argalia</Title>
           <Content>Then by all means, feel free to join us.</Content>
