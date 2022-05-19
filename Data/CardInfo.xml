@@ -28,14 +28,14 @@
   <Card ID="2">
     <Name>Waltz in Violet</Name>
     <TextId>-1</TextId>
-    <Artwork>TA_VioletBlack.png</Artwork>
+    <Artwork>Waltz in Violet.png</Artwork>
     <Rarity>Common</Rarity>
     <Spec Range="Near" Cost="1" Affection="One" EmotionLimit="0" />
     <Script>energy2</Script>
     <ScriptDesc />
     <BehaviourList>
-      <Behaviour Min="3" Dice="7" Type="Atk" Detail="Penetrate" Motion="S2" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
-      <Behaviour Min="2" Dice="6" Type="Standby" Detail="Penetrate" Motion="Z" MotionDefault="N" EffectRes="" Script="bleeding2atk" ActionScript="" Desc="" />
+      <Behaviour Min="3" Dice="7" Type="Atk" Detail="Slash" Motion="J" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="2" Dice="6" Type="Standby" Detail="Slash" Motion="J" MotionDefault="N" EffectRes="" Script="bleeding2atk" ActionScript="" Desc="" />
     </BehaviourList>
     <Chapter>7</Chapter>
     <SpecialEffect />
@@ -221,6 +221,180 @@
     <SkinHeight>0</SkinHeight>
     <MapChange />
     <Priority>6</Priority>
+    <PriorityScript />
+    <Category>None</Category>
+    <MaxCooltimeForEgo>9</MaxCooltimeForEgo>
+    <MaxNum>150</MaxNum>
+  </Card>
+  <Card ID="10">
+    <Name>Scythe Gash</Name>
+    <TextId>-1</TextId>
+    <Artwork>Allegro.png</Artwork>
+    <Rarity>Uncommon</Rarity>
+    <Spec Range="Near" Cost="0" Affection="One" EmotionLimit="0" />
+    <Script />
+    <ScriptDesc />
+    <BehaviourList>
+      <Behaviour Min="5" Dice="9" Type="Atk" Detail="Slash" Motion="J" EffectRes="" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="4" Dice="8" Type="Atk" Detail="Hit" Motion="H" EffectRes="" Script="" ActionScript="" Desc="" />
+    </BehaviourList>
+    <Chapter>7</Chapter>
+    <SpecialEffect />
+    <SkinChange />
+    <SkinChangeType>EGO</SkinChangeType>
+    <SkinHeight>0</SkinHeight>
+    <MapChange />
+    <Priority>0</Priority>
+    <PriorityScript />
+    <Category>None</Category>
+    <MaxCooltimeForEgo>9</MaxCooltimeForEgo>
+    <MaxNum>150</MaxNum>
+  </Card>
+  <Card ID="11">
+    <Name>Flowing Notes</Name>
+    <TextId>-1</TextId>
+    <Artwork>Scout.png</Artwork>
+    <Rarity>Common</Rarity>
+    <Spec Range="Near" Cost="1" Affection="One" EmotionLimit="0" />
+    <Script />
+    <ScriptDesc />
+    <BehaviourList>
+      <Behaviour Min="3" Dice="7" Type="Def" Detail="Evasion" Motion="E" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="4" Dice="6" Type="Atk" Detail="Slash" Motion="J" EffectRes="" Script="bleeding4atk" ActionScript="" Desc="" />
+    </BehaviourList>
+    <Chapter>7</Chapter>
+    <SpecialEffect />
+    <SkinChange />
+    <SkinChangeType>EGO</SkinChangeType>
+    <SkinHeight>0</SkinHeight>
+    <MapChange />
+    <Priority>0</Priority>
+    <PriorityScript />
+    <Category>None</Category>
+    <MaxCooltimeForEgo>9</MaxCooltimeForEgo>
+    <MaxNum>150</MaxNum>
+  </Card>
+  <Card ID="13">
+    <Name>Fragmented Memories</Name>
+    <TextId>-1</TextId>
+    <Artwork>Fragmented Memories.png</Artwork>
+    <Rarity>Rare</Rarity>
+    <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
+    <Script />
+    <ScriptDesc />
+    <BehaviourList>
+      <Behaviour Min="4" Dice="7" Type="Atk" Detail="Hit" Motion="H" EffectRes="" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="3" Dice="6" Type="Atk" Detail="Slash" Motion="J" EffectRes="" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="4" Dice="6" Type="Standby" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
+    </BehaviourList>
+    <Chapter>7</Chapter>
+    <SpecialEffect />
+    <SkinChange />
+    <SkinChangeType>EGO</SkinChangeType>
+    <SkinHeight>0</SkinHeight>
+    <MapChange />
+    <Priority>0</Priority>
+    <PriorityScript />
+    <Category>None</Category>
+    <MaxCooltimeForEgo>9</MaxCooltimeForEgo>
+    <MaxNum>150</MaxNum>
+  </Card>
+  <Card ID="14">
+    <Name>Unfamiliar Memories</Name>
+    <TextId>-1</TextId>
+    <Artwork>Unfamiliar Memories.png</Artwork>
+    <Rarity>Rare</Rarity>
+    <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
+    <Script />
+    <ScriptDesc />
+    <BehaviourList>
+      <Behaviour Min="4" Dice="7" Type="Atk" Detail="Slash" Motion="J" EffectRes="" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="3" Dice="6" Type="Atk" Detail="Penetrate" Motion="Z" EffectRes="" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="4" Dice="6" Type="Standby" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
+    </BehaviourList>
+    <Chapter>7</Chapter>
+    <SpecialEffect />
+    <SkinChange />
+    <SkinChangeType>EGO</SkinChangeType>
+    <SkinHeight>0</SkinHeight>
+    <MapChange />
+    <Priority>0</Priority>
+    <PriorityScript />
+    <Category>None</Category>
+    <MaxCooltimeForEgo>9</MaxCooltimeForEgo>
+    <MaxNum>150</MaxNum>
+  </Card>
+  <Card ID="15">
+    <Name>Scythe Slash</Name>
+    <TextId>-1</TextId>
+    <Artwork>Allegro.png</Artwork>
+    <Rarity>Common</Rarity>
+    <Spec Range="Near" Cost="2" Affection="One" EmotionLimit="0" />
+    <Script />
+    <ScriptDesc />
+    <BehaviourList>
+      <Behaviour Min="4" Dice="5" Type="Atk" Detail="Penetrate" Motion="Z" EffectRes="" Script="damage2atk" ActionScript="" Desc="" />
+      <Behaviour Min="4" Dice="5" Type="Atk" Detail="Hit" Motion="H" EffectRes="" Script="damage2atk" ActionScript="" Desc="" />
+      <Behaviour Min="5" Dice="6" Type="Atk" Detail="Slash" Motion="J" EffectRes="" Script="" ActionScript="argaliaDawnAction" Desc="" />
+      <Behaviour Min="3" Dice="7" Type="Standby" Detail="Guard" Motion="G" MotionDefault="N" EffectRes="" Script="" ActionScript="" Desc="" />
+    </BehaviourList>
+    <Chapter>7</Chapter>
+    <SpecialEffect />
+    <SkinChange />
+    <SkinChangeType>EGO</SkinChangeType>
+    <SkinHeight>0</SkinHeight>
+    <MapChange />
+    <Priority>0</Priority>
+    <PriorityScript />
+    <Category>None</Category>
+    <MaxCooltimeForEgo>9</MaxCooltimeForEgo>
+    <MaxNum>150</MaxNum>
+  </Card>
+  <Card ID="16">
+    <Name>Sequential Blitz</Name>
+    <TextId>-1</TextId>
+    <Artwork>Allegro.png</Artwork>
+    <Rarity>Rare</Rarity>
+    <Spec Range="Near" Cost="3" Affection="One" EmotionLimit="0" />
+    <Script />
+    <ScriptDesc />
+    <BehaviourList>
+      <Behaviour Min="4" Dice="6" Type="Atk" Detail="Slash" Motion="J" EffectRes="" Script="paralysis1atk" ActionScript="argaliaDawnAction" Desc="" />
+      <Behaviour Min="4" Dice="6" Type="Atk" Detail="Hit" Motion="H" EffectRes="" Script="" ActionScript="argaliaDawnAction" Desc="" />
+      <Behaviour Min="4" Dice="6" Type="Atk" Detail="Hit" Motion="H" EffectRes="" Script="" ActionScript="argaliaDawnAction" Desc="" />
+      <Behaviour Min="3" Dice="5" Type="Atk" Detail="Slash" Motion="J" EffectRes="" Script="" ActionScript="argaliaDawnAction" Desc="" />
+    </BehaviourList>
+    <Chapter>7</Chapter>
+    <SpecialEffect />
+    <SkinChange />
+    <SkinChangeType>EGO</SkinChangeType>
+    <SkinHeight>0</SkinHeight>
+    <MapChange />
+    <Priority>0</Priority>
+    <PriorityScript />
+    <Category>None</Category>
+    <MaxCooltimeForEgo>9</MaxCooltimeForEgo>
+    <MaxNum>150</MaxNum>
+  </Card>
+  <Card ID="17">
+    <Name>Unhinged Melodia</Name>
+    <TextId>-1</TextId>
+    <Artwork>Allegro.png</Artwork>
+    <Rarity>Unique</Rarity>
+    <Spec Range="Near" Cost="3" Affection="One" EmotionLimit="0" />
+    <Script />
+    <ScriptDesc />
+    <BehaviourList>
+      <Behaviour Min="7" Dice="13" Type="Atk" Detail="Slash" Motion="J" EffectRes="" Script="" ActionScript="" Desc="" />
+      <Behaviour Min="3" Dice="5" Type="Atk" Detail="Hit" Motion="H" EffectRes="" Script="argaliaStrengthPl" ActionScript="" Desc="" />
+    </BehaviourList>
+    <Chapter>7</Chapter>
+    <SpecialEffect />
+    <SkinChange />
+    <SkinChangeType>EGO</SkinChangeType>
+    <SkinHeight>0</SkinHeight>
+    <MapChange />
+    <Priority>0</Priority>
     <PriorityScript />
     <Category>None</Category>
     <MaxCooltimeForEgo>9</MaxCooltimeForEgo>
